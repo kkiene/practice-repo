@@ -1,3 +1,5 @@
+// Hi from Kelley!!! 
+
 PImage doge;
 float r, g, b;
 color c; // color is a unique data type
